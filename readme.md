@@ -2,6 +2,7 @@
 
 
 
+npm install @google-cloud/storage
 
 
 command reference (for myself)
@@ -16,3 +17,6 @@ a save dev is a dependancy that is only required for development and shouldn't b
 
 npm i --save-dev @types/node @types/express
 
+at the end:
+
+create commands github with docker commands and example docker
